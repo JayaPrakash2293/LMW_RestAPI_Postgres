@@ -6,6 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class LmwRestApiPostgresApplicationTests {
 	//Removed Blank line.
+	
 	@Test
 	void contextLoads() {
 	}
